@@ -1,4 +1,5 @@
 module.exports = {
+  isAuth: false,
   title: 'Vue Element Admin',
 
   /**
