@@ -1,5 +1,5 @@
 <template>
-  <div>欢迎小伙伴</div>
+  <div style="padding: 10px">欢迎小伙伴</div>
 </template>
 
 <script>

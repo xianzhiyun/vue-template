@@ -1,6 +1,6 @@
 module.exports = {
   isAuth: false,
-  title: 'Vue Element Admin',
+  title: '先知云',
 
   /**
    * @type {boolean} true | false
